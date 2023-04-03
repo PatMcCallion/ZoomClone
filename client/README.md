@@ -29,10 +29,13 @@ This monitors the project directory and automatically restarts the node applicat
 
 ### 1. Enter your name in the "name" bar - it will update your name both above your webcam feed and within the peer connection
 <img src='/client/src/img/1.JPG'>
+
 ### 2. Click the "copy ID to clipboard" button, this will copy your unique peer connection ID code to your computer's clipboard
 ### 3. Paste your unique peer connection ID code into the ID to call space
 <img src='/client/src/img/2.JPG'>
+
 ### 4. Press Call and wait for the ringtone and alert message to pop-up
 <img src='/client/src/img/3.JPG'>
+
 ### 5. Accept the call and begin your video call (with yourself, since your used your own ID code)
 <img src='/client/src/img/4.JPG'>
