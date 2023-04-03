@@ -23,3 +23,12 @@ You may also see any lint errors in the console.
 ### `nodemon server.js` (warning: must have nodemon installed or this will not function properly)
 
 This monitors the project directory and automatically restarts the node application when it detects any changes. This means that you do not have to stop and restart the server-side files in order for any changes to take effect.
+
+## To mimic a call from a user
+#### (Your browser will prompt you to allow usage of your webcam and microphone, please allow these!)
+
+### 1. Enter your name in the "name" bar - it will update your name both above your webcam feed and within the peer connection
+### 2. Click the "copy ID to clipboard" button, this will copy your unique peer connection ID code to your computer's clipboard
+### 3. Paste your unique peer connection ID code into the ID to call space
+### 4. Press Call and wait for the ringtone and alert message to pop-up
+### 5. Accept the call and begin your video call (with yourself, since your used your own ID code)
