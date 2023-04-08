@@ -1,4 +1,4 @@
-This is a single page application, built using ReactJs, MaterialUI, and Socket.io to mimic an in-browser video chat application. 
+This is a single page application, built using ReactJs, MaterialUI, and Socket.io to mimic an in-browser video chat application. The single page web application allows users to establish random IDs and call other users on the webpage by utilizing the provided, randomized ID codes. 
 
 # Getting Started with Create React App
 
